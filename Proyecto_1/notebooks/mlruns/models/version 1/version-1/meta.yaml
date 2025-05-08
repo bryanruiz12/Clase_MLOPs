@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744333567316
+current_stage: None
+description: ''
+last_updated_timestamp: 1744333567316
+name: version 1
+run_id: 05b15d323d0b4b1fb712a52117d0793e
+run_link: ''
+source: file:///c:/MLOPS/Clase_MLOPs/Clase_MLOPs/Proyecto_1/notebooks/mlruns/644798121893717707/05b15d323d0b4b1fb712a52117d0793e/artifacts/modelo_svm
+status: READY
+status_message: null
+storage_location: file:///c:/MLOPS/Clase_MLOPs/Clase_MLOPs/Proyecto_1/notebooks/mlruns/644798121893717707/05b15d323d0b4b1fb712a52117d0793e/artifacts/modelo_svm
+user_id: null
+version: 1

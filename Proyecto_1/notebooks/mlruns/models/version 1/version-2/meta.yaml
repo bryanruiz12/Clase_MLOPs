@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744333675916
+current_stage: None
+description: ''
+last_updated_timestamp: 1744333675916
+name: version 1
+run_id: 9a00b8541d864cfb90bc3ad1c4e805ce
+run_link: ''
+source: file:///c:/MLOPS/Clase_MLOPs/Clase_MLOPs/Proyecto_1/notebooks/mlruns/0/9a00b8541d864cfb90bc3ad1c4e805ce/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/MLOPS/Clase_MLOPs/Clase_MLOPs/Proyecto_1/notebooks/mlruns/0/9a00b8541d864cfb90bc3ad1c4e805ce/artifacts/model
+user_id: null
+version: 2

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MLOPS/Clase_MLOPs/Clase_MLOPs/Proyecto_1/notebooks/mlruns/644798121893717707/a7d0e5aed30a4f4581228a5ac0d5a2ea/artifacts
+end_time: 1744333345739
+entry_point_name: ''
+experiment_id: '644798121893717707'
+lifecycle_stage: active
+run_id: a7d0e5aed30a4f4581228a5ac0d5a2ea
+run_name: SVM GridSearchCV
+run_uuid: a7d0e5aed30a4f4581228a5ac0d5a2ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744331626876
+status: 4
+tags: []
+user_id: Usuario
